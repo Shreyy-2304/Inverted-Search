@@ -1,0 +1,4 @@
+#0;apple;3;file1.txt;2;file2.txt;1;file3.txt;2;
+#1;banana;2;file1.txt;1;file2.txt;1;
+#12;mango;2;file1.txt;1;file3.txt;1;
+#14;orange;2;file2.txt;1;file3.txt;1;
